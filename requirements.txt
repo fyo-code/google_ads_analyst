@@ -2,5 +2,5 @@ streamlit
 pandas>=2.0,<2.3
 numpy<2.0
 altair
-openai
 openpyxl
+openai>=1.40.0
